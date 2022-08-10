@@ -1,10 +1,5 @@
 # Your Own Metaverse
 
-## Requirements
-
-- Basic Javascript, HTML and CSS.
-- Basic understanding of NFTs.
-
 ## Tools
 
 - Code editor of your preference.
